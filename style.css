@@ -1,0 +1,95 @@
+.carousel-item{
+    width: 60%;
+    height: 60%;
+    margin-left: 20% !important;
+    margin-top: 30px;
+}
+
+.text{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+    text-indent: 15%;
+    line-height: 30px;
+    margin-left: 40vh;
+    margin-right: 40vh;
+    /* padding-right: 90vh; */
+}
+.footerimg{
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .carousel-item{
+        width: 80%;
+        height: 80%;
+        margin-left: 10% !important;
+        margin-top: 30px;
+    }
+    .text{
+        margin-top: 30px;
+        /* font-size: 18px; */
+        /* font-weight: 300; */
+        text-align: justify;
+        text-indent: 15%;
+        line-height: 30px;
+        margin-left: 6vh;
+        margin-right: 6vh;
+        /* padding-right: 90vh; */
+    }
+    footer{
+        height: 3vh;
+        font-size: 12px;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    .carousel-item{
+        width: 80%;
+        height: 80%;
+        margin-left: 10% !important;
+        margin-top: 30px;
+    }
+    .text{
+        margin-top: 30px;
+        /* font-size: 18px; */
+        /* font-weight: 300; */
+        text-align: justify;
+        text-indent: 15%;
+        line-height: 30px;
+        margin-left: 6vh;
+        margin-right: 6vh;
+        /* padding-right: 90vh; */
+    }
+    footer{
+        height: 3vh;
+        font-size: 12px;
+    }
+  }
+  @media only screen and (min-width: 1024px) {
+    /* For mobile phones: */
+    .carousel-item{
+        width: 80%;
+        height: 80%;
+        margin-left: 10% !important;
+        margin-top: 30px;
+    }
+    .text{
+        margin-top: 30px;
+        /* font-size: 18px; */
+        /* font-weight: 300; */
+        text-align: justify;
+        text-indent: 15%;
+        line-height: 30px;
+        margin-left: 6vh;
+        margin-right: 6vh;
+        /* padding-right: 90vh; */
+    }
+    footer{
+        height: 3vh;
+        font-size: 12px;
+    }
+  }
