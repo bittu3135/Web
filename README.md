@@ -1,1 +1,1 @@
-![Logo](../logo.png)
+![Logo](/Web/assets/logo.png)
